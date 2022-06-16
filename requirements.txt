@@ -17,6 +17,6 @@ requests-cache==0.4.13
 singledispatch==3.4.0.3
 six==1.10.0
 toml==0.9.2
-urllib3==1.22
+urllib3==1.26.5
 webencodings==0.5.1
 wrapt==1.10.10
